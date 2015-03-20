@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp15-cs242/gaeta2">
+<entry
+   kind="file">
+<name>Assignment0.py</name>
+<size>43124</size>
+<commit
+   revision="587">
+<author>gaeta2</author>
+<date>2015-02-06T21:56:37.312227Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Chess-1.1</name>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/.classpath</name>
+<size>378</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/.project</name>
+<size>364</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Chess-1.1/.settings</name>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Bishop.class</name>
+<size>660</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Bishop.java</name>
+<size>603</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Board.class</name>
+<size>597</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Board.java</name>
+<size>798</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/BoardSpace.class</name>
+<size>898</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/BoardSpace.java</name>
+<size>939</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/ChessBoard.class</name>
+<size>3285</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/ChessBoard.java</name>
+<size>3534</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Coords.class</name>
+<size>483</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Coords.java</name>
+<size>291</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/DiagonalMove.class</name>
+<size>775</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/DiagonalMove.java</name>
+<size>905</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Horse.class</name>
+<size>643</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Horse.java</name>
+<size>389</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_BasicMovementLogicTest.class</name>
+<size>1393</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_BasicMovementLogicTest.java</name>
+<size>2102</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_TestCapturing.class</name>
+<size>1226</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_TestCapturing.java</name>
+<size>1363</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_TestCheck.class</name>
+<size>874</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_TestCheck.java</name>
+<size>685</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_TestPieceCanMove.class</name>
+<size>2647</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/JUnit_TestPieceCanMove.java</name>
+<size>4164</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Jester.class</name>
+<size>749</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Jester.java</name>
+<size>484</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/King.class</name>
+<size>1380</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/King.java</name>
+<size>1290</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/LMove.class</name>
+<size>797</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/LMove.java</name>
+<size>1161</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/LegalMove.class</name>
+<size>1210</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/LegalMove.java</name>
+<size>1847</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/MoveIterator.class</name>
+<size>415</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/MoveIterator.java</name>
+<size>181</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Pawn.class</name>
+<size>1991</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Pawn.java</name>
+<size>2356</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Piece.class</name>
+<size>1339</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Piece.java</name>
+<size>1281</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/PopulateChessBoard.class</name>
+<size>1508</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/PopulateChessBoard.java</name>
+<size>1397</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Queen.class</name>
+<size>763</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Queen.java</name>
+<size>506</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Rook.class</name>
+<size>652</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Rook.java</name>
+<size>397</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/StraightMove.class</name>
+<size>727</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/StraightMove.java</name>
+<size>906</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Wizard.class</name>
+<size>851</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/Wizard.java</name>
+<size>587</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess-1.1/doxygen</name>
+<size>8250032</size>
+<commit
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ChessGUI_1</name>
+<commit
+   revision="2313">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:38.372704Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/.classpath</name>
+<size>480</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/.project</name>
+<size>367</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ChessGUI_1/.settings</name>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>592</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/GUI-Manual-Test-Plan.pdf</name>
+<size>170654</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ChessGUI_1/bin</name>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/ChessGUI.class</name>
+<size>4423</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ChessGUI_1/bin/images</name>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/black_bishop.png</name>
+<size>1260</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/black_king.png</name>
+<size>2485</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/black_knight.png</name>
+<size>1516</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/black_pawn.png</name>
+<size>797</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/black_queen.png</name>
+<size>2267</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/black_rook.png</name>
+<size>725</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/white_bishop.png</name>
+<size>1944</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/white_king.png</name>
+<size>2279</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/white_knight.png</name>
+<size>1878</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/white_pawn.png</name>
+<size>1294</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/white_queen.png</name>
+<size>2637</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/bin/images/white_rook.png</name>
+<size>933</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ChessGUI_1/src</name>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/ChessGUI.java</name>
+<size>6975</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>ChessGUI_1/src/images</name>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/black_bishop.png</name>
+<size>1260</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/black_king.png</name>
+<size>2485</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/black_knight.png</name>
+<size>1516</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/black_pawn.png</name>
+<size>797</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/black_queen.png</name>
+<size>2267</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/black_rook.png</name>
+<size>725</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/white_bishop.png</name>
+<size>1944</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/white_king.png</name>
+<size>2279</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/white_knight.png</name>
+<size>1878</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/white_pawn.png</name>
+<size>1294</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/white_queen.png</name>
+<size>2637</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ChessGUI_1/src/images/white_rook.png</name>
+<size>933</size>
+<commit
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Chess_1.0</name>
+<commit
+   revision="2315">
+<author>gaeta2</author>
+<date>2015-02-20T21:49:01.017222Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/.classpath</name>
+<size>378</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/.project</name>
+<size>364</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Chess_1.0/.settings</name>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Bishop.class</name>
+<size>660</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Bishop.java</name>
+<size>358</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Board.class</name>
+<size>597</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Board.java</name>
+<size>504</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/BoardSpace.class</name>
+<size>898</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/BoardSpace.java</name>
+<size>720</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/ChessBoard.class</name>
+<size>3285</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/ChessBoard.java</name>
+<size>3215</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Coords.class</name>
+<size>483</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Coords.java</name>
+<size>250</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/DiagonalMove.class</name>
+<size>775</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/DiagonalMove.java</name>
+<size>881</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Horse.class</name>
+<size>643</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Horse.java</name>
+<size>339</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/JUnit_BasicMovementLogicTest.class</name>
+<size>2229</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/JUnit_BasicMovementLogicTest.java</name>
+<size>1501</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/JUnit_TestCheck.class</name>
+<size>912</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/JUnit_TestCheck.java</name>
+<size>697</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/King.class</name>
+<size>1380</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/King.java</name>
+<size>1240</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/LMove.class</name>
+<size>797</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/LMove.java</name>
+<size>1161</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/LegalMove.class</name>
+<size>1210</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/LegalMove.java</name>
+<size>1847</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/MoveIterator.class</name>
+<size>415</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/MoveIterator.java</name>
+<size>181</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Pawn.class</name>
+<size>1991</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Pawn.java</name>
+<size>2306</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Piece.class</name>
+<size>1339</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Piece.java</name>
+<size>1274</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/PopulateChessBoard.class</name>
+<size>1508</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/PopulateChessBoard.java</name>
+<size>1397</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Queen.class</name>
+<size>763</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Queen.java</name>
+<size>456</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Rook.class</name>
+<size>652</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/Rook.java</name>
+<size>347</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/StraightMove.class</name>
+<size>727</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Chess_1.0/StraightMove.java</name>
+<size>906</size>
+<commit
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+</commit>
+</entry>
+</list>
+</lists>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="2315">
+<author>gaeta2</author>
+<date>2015-02-20T21:49:01.017222Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/gaeta2/Chess</path>
+<path
+   copyfrom-path="/gaeta2/Chess"
+   copyfrom-rev="2314"
+   action="A"
+   kind="dir">/gaeta2/Chess_1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2314">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:48.511103Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/gaeta2/ChessGUI</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2313">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:38.372704Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/gaeta2/ChessGUI-10</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/gaeta2/ChessGUI-10"
+   copyfrom-rev="2312">/gaeta2/ChessGUI_1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2312">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:26.847611Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/.project</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/Chess-1.1/.settings</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Board.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Board.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/BoardSpace.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/BoardSpace.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Coords.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Coords.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/DiagonalMove.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/DiagonalMove.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Horse.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Horse.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/JUnit_BasicMovementLogicTest.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/JUnit_BasicMovementLogicTest.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/JUnit_TestCapturing.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/JUnit_TestCapturing.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/JUnit_TestCheck.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/JUnit_TestCheck.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/JUnit_TestPieceCanMove.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/JUnit_TestPieceCanMove.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Jester.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Jester.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/King.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/King.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/LMove.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/LMove.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/LegalMove.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/LegalMove.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/MoveIterator.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/MoveIterator.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Piece.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Piece.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/PopulateChessBoard.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/PopulateChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Queen.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Queen.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Rook.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Rook.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/StraightMove.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/StraightMove.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess-1.1/Wizard.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/Wizard.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess-1.1/doxygen</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2311">
+<author>gaeta2</author>
+<date>2015-02-20T21:48:07.676356Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/gaeta2/Chess-1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2310">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:55.312407Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/.DS_Store</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/.classpath</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/.project</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI-10/.settings</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/GUI-Manual-Test-Plan.pdf</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI-10/bin</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/ChessGUI.class</path>
+<path
+   action="A"
+   kind="dir">/gaeta2/ChessGUI-10/bin/images</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/bin/images/black_bishop.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/bin/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/bin/images/black_knight.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/bin/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/bin/images/black_queen.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/bin/images/black_rook.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/images/white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/images/white_king.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/images/white_knight.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/images/white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/bin/images/white_rook.png</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI-10/src</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/ChessGUI.java</path>
+<path
+   action="A"
+   kind="dir">/gaeta2/ChessGUI-10/src/images</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/src/images/black_bishop.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/src/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/src/images/black_knight.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/src/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/src/images/black_queen.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI-10/src/images/black_rook.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/images/white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/images/white_king.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/images/white_knight.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/images/white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI-10/src/images/white_rook.png</path>
+</paths>
+<msg>Initial Commit
+</msg>
+</logentry>
+<logentry
+   revision="2309">
+<author>gaeta2</author>
+<date>2015-02-20T21:47:36.897427Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI-10</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2304">
+<author>gaeta2</author>
+<date>2015-02-20T21:39:32.281613Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/GUI-Manual-Test-Plan.pdf</path>
+</paths>
+<msg>adding manual</msg>
+</logentry>
+<logentry
+   revision="2295">
+<author>gaeta2</author>
+<date>2015-02-20T21:16:08.243412Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/.DS_Store</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/.classpath</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/.project</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI/.settings</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI/bin</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/ChessGUI.class</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI/bin/images</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/images/black_bishop.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/black_knight.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/black_queen.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/black_rook.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/white_bishop.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/white_king.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/bin/images/white_knight.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/images/white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/bin/images/white_rook.png</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI/src</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/src/ChessGUI.java</path>
+<path
+   kind="dir"
+   action="A">/gaeta2/ChessGUI/src/images</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/src/images/black_bishop.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/src/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/black_knight.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/black_queen.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/black_rook.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/white_bishop.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/white_king.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/white_knight.png</path>
+<path
+   action="A"
+   kind="file">/gaeta2/ChessGUI/src/images/white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/src/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/gaeta2/ChessGUI/src/images/white_rook.png</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2294">
+<author>gaeta2</author>
+<date>2015-02-20T21:15:43.788058Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/gaeta2/ChessGUI</path>
+</paths>
+<msg>initial commit</msg>
+</logentry>
+<logentry
+   revision="1316">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:55.567483Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/.classpath</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/.project</path>
+<path
+   action="A"
+   kind="dir">/gaeta2/Chess/.settings</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/BoardSpace.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/BoardSpace.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/ChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Coords.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Coords.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/DiagonalMove.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/DiagonalMove.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Horse.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Horse.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/JUnit_BasicMovementLogicTest.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/JUnit_BasicMovementLogicTest.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/JUnit_TestCheck.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/JUnit_TestCheck.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/King.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/LMove.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/LMove.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/LegalMove.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/LegalMove.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/MoveIterator.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/MoveIterator.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/gaeta2/Chess/PopulateChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/PopulateChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/StraightMove.class</path>
+<path
+   kind="file"
+   action="A">/gaeta2/Chess/StraightMove.java</path>
+</paths>
+<msg>initial commit</msg>
+</logentry>
+<logentry
+   revision="1313">
+<author>gaeta2</author>
+<date>2015-02-13T21:34:20.282604Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/gaeta2/Chess</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="587">
+<author>gaeta2</author>
+<date>2015-02-06T21:56:37.312227Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gaeta2/Assignment0.py</path>
+</paths>
+<msg>adding section 1 code</msg>
+</logentry>
+<logentry
+   revision="51">
+<author>root</author>
+<date>2015-02-04T16:45:15.974825Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/gaeta2</path>
+</paths>
+<msg>created directory gaeta2</msg>
+</logentry>
+</log>

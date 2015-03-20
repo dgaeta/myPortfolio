@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+	<article>
+	   <author>Daniel Gaeta</author>
+	   <headline>Google collapses</headline>
+	   <newspaper>TechCrunch</newspaper>
+	</article>
+
+	<article>
+	   <author>Jason Shen</author>
+	   <headline>Virtual Reality is the future</headline>
+	   <newspaper>PC Magazine</newspaper>
+	</article>
+</articles>
